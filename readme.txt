@@ -1,1 +1,3 @@
-Hi there
+We've long been fans of Tumblr's awesome Photosets, but until now, those of us who don't know our Fuck Yeah's from our Nyan Cats, have been left out in the cold...
+
+But no longer! Now Photessellate makes it super easy to create beautiful, fully responsive photosets until your brain implodes with sheer joy. Yay!
